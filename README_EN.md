@@ -10,9 +10,9 @@ English Version | **[中文版本](README.md)**
 
 ## 📦 Download
 
-Packaged app: [AutoClicker.app](app/AutoClicker.app)
+Packaged app: [AutoClicker.zip](app/AutoClicker.zip) (2.6MB)
 
-Double-click to run. Requires Accessibility permission on first launch.
+Extract and double-click to run. Requires Accessibility permission on first launch.
 
 ---
 

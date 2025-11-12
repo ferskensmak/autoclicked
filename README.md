@@ -10,9 +10,9 @@
 
 ## 📦 下载
 
-已打包应用: [AutoClicker.app](app/AutoClicker.app)
+已打包应用: [AutoClicker.zip](app/AutoClicker.zip) (2.6MB)
 
-双击运行，首次使用需授予辅助功能权限
+解压后双击运行，首次使用需授予辅助功能权限
 
 ---
 
