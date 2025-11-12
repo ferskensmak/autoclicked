@@ -35,9 +35,9 @@ Extract and double-click to run. Requires Accessibility permission on first laun
 - **Position Jitter**: 0-10px click position offset, avoids identical coordinates
 
 ### ⌨️ Global Hotkeys
-- **Start**: `⌘ Cmd + ⌥ Opt + S`
-- **Stop**: `⌘ Cmd + ⌥ Opt + X`
-- **Capture**: `⌘ Cmd + ⌥ Opt + C`
+- **Start**: `⌘ Cmd + ⇧ Shift + S`
+- **Stop**: `⌘ Cmd + ⇧ Shift + X`
+- **Capture**: `⌘ Cmd + ⇧ Shift + P`
 
 ### 🌍 Languages
 Simplified Chinese / Traditional Chinese / English / Japanese / Korean / French / German / Spanish

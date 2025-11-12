@@ -35,9 +35,9 @@
 - **坐标抖动**: 0-10px 点击位置偏移，避免完全相同坐标
 
 ### ⌨️ 全局快捷键
-- **启动**: `⌘ Cmd + ⌥ Opt + S`
-- **停止**: `⌘ Cmd + ⌥ Opt + X`
-- **捕获坐标**: `⌘ Cmd + ⌥ Opt + C`
+- **启动**: `⌘ Cmd + ⇧ Shift + S`
+- **停止**: `⌘ Cmd + ⇧ Shift + X`
+- **捕获坐标**: `⌘ Cmd + ⇧ Shift + P`
 
 ### 🌍 多语言
 简体中文 / 繁体中文 / English / 日本語 / 한국어 / Français / Deutsch / Español
